@@ -32,5 +32,3 @@ The game uses Qt Graphics View to render the scene, handle animations, and detec
 - `widget.cpp / widget.h` → Main window and view setup
 - `resource.qrc` → Game images and assets
 
-## Notes
-This project is intended for learning basic game development concepts using Qt such as graphics rendering, timers, animations, and event handling.
